@@ -1,1 +1,1 @@
-# plot-styles-python
+# Plot styles in matplotlib python.
